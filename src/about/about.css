@@ -1,0 +1,102 @@
+.About {
+    text-align: center;
+  }
+
+.green-forest-image {
+    background-image: url("../forest-fire.jpg");
+    background-color: #cccccc;
+    width: 1520px;
+    height: 570px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    opacity: .95;
+    margin-top: 0px;
+    
+  }
+  .navbar-custom {
+    height: 150px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    display: flex;
+  }
+  
+  .logo-image{
+    margin-left: 100px;
+    margin-right: 770px;
+    height: 150px;
+    width: 290px;
+  }
+  
+  .text-title {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style: normal;
+    color: white;
+    font-size: 160%;
+    margin-left: 20px;
+    text-align: right;
+    
+  }
+
+  .card-text-about {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100%;
+    color: white;
+    
+  }
+  
+  .jumbotron {
+    position: absolute;
+    width: 850px;
+    height: 300px;
+    margin-left: 114px;
+    top: 210px;
+    background-color: rgb(31, 30, 30);
+    padding-top: 20px;
+    
+  }
+
+  .card-info-contact {
+    width : 1050px;
+    height : 120px;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-right: 10px;
+    margin-left: 114px;
+    margin-top: 430px;
+    float: left;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: rgb(47, 48, 47);
+    
+  }
+  
+  .card-info-text-contact {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    color: black;
+    font-size: 170%;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 25px;
+    color: white;
+  }
+  
+  .donate-button-contact {
+    width: 330px;
+    height: 118px;
+    background-color:rgb(36, 35, 35);
+    border-style: solid;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-top: 430px;
+    position: absolute;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    color: #fafafa;
+    
+  }
