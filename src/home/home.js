@@ -14,7 +14,7 @@ const Home = () => {
           <Navbar className='navbar-custom' expand= 'lg' >
             <img src={logo} alt=''className='logo-image' href="/"></img>
               <NavLink  className='text-title' to="/" href='/' exact>Home</NavLink>
-              <NavLink className='text-title' activeClassName="active" to="/about" href='/about'>About</NavLink>
+              <NavLink className='text-title'  to="/about" href='/about'>About</NavLink>
           </Navbar>
           <Carousel className='carousel-card' >
             <Carousel.Item>
